@@ -1,0 +1,13 @@
+{
+    "updated": "2022-01-31",
+    "data": [
+        {
+            "name": "Oh my CatBlocks!",
+            "author": "SinanGentoo",
+            "description": "Make your hat blocks look like cats!",
+            "version": "1.0.0",
+            "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-list/master/extensions/sinangentoo.ohmycatblocks@1.0.0.ccx",
+            "dependencies": []
+        }
+    ]
+}
