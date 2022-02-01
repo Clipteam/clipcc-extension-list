@@ -8,7 +8,7 @@
             "description": "Make your hat blocks look like cats!",
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/oh-my-catblocks/master/assets/icon.png",
-            "download": "https://github.com/SinanGentoo/oh-my-catblocks/releases/download/Meow/sinangentoo.ohmycatblocks@1.0.0.ccx",
+            "download": "https://download.fastgit.org/SinanGentoo/oh-my-catblocks/releases/download/Meow/sinangentoo.ohmycatblocks@1.0.0.ccx",
             "dependencies": []
         }
     ]
