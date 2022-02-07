@@ -1,6 +1,16 @@
 {
-    "updated": "2022-02-02",
+    "updated": "2022-02-07",
     "data": [
+        {
+            "id": "fileio.extension",
+            "name": "FileIO",
+            "author": "frank_782",
+            "description": "Let ClipCC project was the ability to access computer files (Desktop Only)",
+            "version": "1.2.0",
+            "pic": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/src/assets/icon.png",
+            "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/dist/fileio.extension%401.2.0.ccx",
+            "dependencies": []
+        },
         {
             "id": "sinangentoo.ohmycatblocks",
             "name": "Oh my CatBlocks",
