@@ -1,5 +1,5 @@
 {
-    "updated": "2022-02-07",
+    "updated": "2022-02-08",
     "data": [
         {
             "id": "fileio.extension",
@@ -8,7 +8,7 @@
             "description": "Let ClipCC project was the ability to access computer files (Desktop Only)",
             "version": "1.2.0",
             "pic": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/src/assets/icon.png",
-            "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/dist/fileio.extension%401.2.0.ccx",
+            "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/dist/fileio.extension%401.3.0.ccx",
             "dependencies": []
         },
         {
