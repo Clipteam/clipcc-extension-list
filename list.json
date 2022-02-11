@@ -9,6 +9,7 @@
             "version": "1.2.0",
             "pic": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/src/assets/icon.png",
             "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/dist/fileio.extension%401.3.0.ccx",
+            "tags": ["desktop-only", "official", "blocks"]
             "dependencies": []
         },
         {
@@ -19,6 +20,7 @@
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/oh-my-catblocks/master/assets/icon.png",
             "download": "https://raw.githubusercontent.com/SinanGentoo/oh-my-catblocks/master/dist/sinangentoo.ohmycatblocks%401.0.0.ccx",
+            "tags": ["customization"],
             "dependencies": []
         },
         {
@@ -29,6 +31,7 @@
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/vmruntimetools/main/assets/icon.png",
             "download": "https://raw.githubusercontent.com/SinanGentoo/vm-runtime-tools/main/dist/sinangentoo.vmruntimetools%401.0.0.ccx",
+            "tags": ["blocks"],
             "dependencies": []
         },
         {
@@ -39,6 +42,7 @@
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/scratch2-ify/master/assets/icon.png",
             "download": "https://raw.githubusercontent.com/SinanGentoo/scratch2-ify/master/dist/sinangentoo.sc2ify%401.0.ccx",
+            "tags": ["customization"],
             "dependencies": []
         },
         {
@@ -49,6 +53,7 @@
             "version": "0.1.0",
             "pic": "https://raw.githubusercontent.com/JasonXu134590/clipcc-extension-string/main/assets/icon.png",
             "download": "https://raw.githubusercontent.com/JasonXu134590/clipcc-extension-string/main/dist/jasonxu.string%400.1.0.ccx",
+            "tags": ["blocks"],
             "dependencies": []
         }
     ]
