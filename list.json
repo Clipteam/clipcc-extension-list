@@ -9,7 +9,7 @@
             "version": "1.2.0",
             "pic": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/src/assets/icon.png",
             "download": "https://raw.githubusercontent.com/Clipteam/clipcc-extension-fileio/master/dist/fileio.extension%401.3.0.ccx",
-            "tags": ["desktop-only", "official", "blocks"]
+            "tags": ["desktop-only", "official", "blocks"],
             "dependencies": []
         },
         {
