@@ -15,7 +15,7 @@
         {
             "id": "sinangentoo.ohmycatblocks",
             "name": "Oh my CatBlocks",
-            "author": "SinanGentoo",
+            "author": "Simon Shiki",
             "description": "Make your hat blocks look like cats!",
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/oh-my-catblocks/master/assets/icon.png",
@@ -26,7 +26,7 @@
         {
             "id": "sinangentoo.vmruntimetools",
             "name": "Runtime Tools",
-            "author": "SinanGentoo",
+            "author": "Simon Shiki",
             "description": "A tool that can change the operation of scratch runtime. ",
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/vmruntimetools/main/assets/icon.png",
@@ -37,7 +37,7 @@
         {
             "id": "sinangentoo.sc2ify",
             "name": "Scratch2-ify",
-            "author": "SinanGentoo",
+            "author": "Simon Shiki",
             "description": "Make your scratch 3 looks like scratch 2!",
             "version": "1.0.0",
             "pic": "https://raw.githubusercontent.com/SinanGentoo/scratch2-ify/master/assets/icon.png",
@@ -53,6 +53,26 @@
             "version": "0.1.0",
             "pic": "https://raw.githubusercontent.com/JasonXu134590/clipcc-extension-string/main/assets/icon.png",
             "download": "https://raw.githubusercontent.com/JasonXu134590/clipcc-extension-string/main/dist/jasonxu.string%400.1.0.ccx",
+            "tags": ["blocks"],
+            "dependencies": []
+        },
+        {
+            "id": "shiki.touch",
+            "name": "Touch",
+            "author": "Simon Shiki",
+            "description": "Add touch screen detection.",
+            "version": "0.1.0",
+            "download": "https://raw.githubusercontent.com/SimonShiki/clipcc-extension-touch/main/dist/shiki.touch%400.1.ccx",
+            "tags": ["blocks"],
+            "dependencies": []
+        },
+        {
+            "id": "frank.websocket",
+            "name": "Web Socket",
+            "author": "frank_782",
+            "description": "Connection World！",
+            "version": "1.0.0",
+            "download": "https://github.com/frank-782/clipcc-extension-websocket/releases/download/1.0.0/frank.websocket@1.0.0.ccx",
             "tags": ["blocks"],
             "dependencies": []
         }
