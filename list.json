@@ -61,8 +61,8 @@
             "name": "Touch",
             "author": "Simon Shiki",
             "description": "Add touch screen detection.",
-            "version": "0.1.0",
-            "download": "https://raw.githubusercontent.com/SimonShiki/clipcc-extension-touch/main/dist/shiki.touch%400.1.ccx",
+            "version": "0.2.0",
+            "download": "https://raw.githubusercontent.com/SimonShiki/clipcc-extension-touch/main/dist/shiki.touch%400.2.ccx",
             "tags": ["blocks"],
             "dependencies": []
         },
